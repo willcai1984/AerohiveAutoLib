@@ -1,0 +1,1 @@
+1. Add support input error bootstrap passwd first time

@@ -1,0 +1,1 @@
+1. Remove logfile's blank automatically  

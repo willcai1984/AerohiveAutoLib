@@ -1,0 +1,1 @@
+1. Add func for both support -f and -v

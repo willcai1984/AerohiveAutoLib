@@ -1,0 +1,1 @@
+1. modify cli send mode to support long command

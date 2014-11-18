@@ -1,0 +1,1 @@
+1. use execute_command_via_cli_sendmode_expect_timeout_wait_list_ssh instead of execute_command_via_cli_sendmode_expect_timeout_wait_list to remove long commands special handle
