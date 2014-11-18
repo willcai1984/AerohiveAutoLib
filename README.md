@@ -1,9 +1,4 @@
-auto_lib
+AutoLib
 ========
 
-library for automation
-include
-ssh.py
-telnet.py
-console.py
-scp.py
+Just for my auto lib record
